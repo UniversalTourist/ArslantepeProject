@@ -7,7 +7,7 @@ library(readxl)
 library(reshape2)
 library(dplyr) # data_frame and n_distinct
 library(tidyr) # gather
-library(ggplot2) # plotting!
+library(ggplot2) 
 library(scales) # hue_pal, linetype_pal (standard ggplot palettes)
 
 # gather everything except year
